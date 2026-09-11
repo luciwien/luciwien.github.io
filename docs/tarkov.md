@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: topic
 title: Tarkov
 permalink: /tarkov/
 ---
