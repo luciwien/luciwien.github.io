@@ -1,3 +1,10 @@
+---
+layout: pages
+title: Tarkov
+permalink: /tarkov/
+---
+
+
 # Tarkov Stuff
 
 ## Ammo
