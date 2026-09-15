@@ -5,17 +5,22 @@
 layout: pages
 ---
 
-# Zuhause Seite
+# Home Sweet Home
 
-## hellas
+[Gooogle](https://www.google.com)
 
-geht ab meine freunde
+## Tarkov
+
+[Tarkov Market](https://tarkov-market.com/)
+
+[Tarkov Wiki](https://escapefromtarkov.fandom.com/wiki/Escape_from_Tarkov_Wiki)
+
+[My Tarkov Brain](tarkov)
+
+## CSeln
+
+Work in progress
+
+## Other Braindumps
 
 [Tools](tools)
-
-[Tarkov](tarkov)
-
-## To Dos
-
-
-``` bundle exec jekyll serve ```
