@@ -10,12 +10,14 @@ permalink: /tarkov/
 [Money](#Money)
 
 [Loadout](#Loadout)
-    [Minimum](#minimum-86k)
-    [Gear and Prices](#gear-and-prices)
-        [Helmet](#helmet)
-        [Headset](#headset)
-        [Rigs](#rigs)
-        [Backpacks](#backpack)
+
+[Minimum](#minimum-86k)
+
+--> [Gear and Prices](#gear-and-prices)
+---> [Helmet](#helmet)
+---> [Headset](#headset)
+---> [Rigs](#rigs)
+---> [Backpacks](#backpack)
 
 
 
@@ -45,36 +47,35 @@ Tag usage: (pen val) + Ammo name
 # Loadout
 
 ## Minimum (86k)
-Rig - CSA - 14k
-Back - MBSS - 25k 
-Ears - GSSH - 22k
-Helmet - SSH - 25k
-Meds - Analgin / Bandage / hemostatic
-Gun - whatever.... 
---> 
 
-Budget G-SSH Combo (55k):
-- SSH Helmet 32k
-- GSSH Headset 23k
+	Rig - CSA - 14k
+	Back - MBSS - 25k 
+	Ears - GSSH - 22k
+	Helmet - SSH - 25k
+	Meds - Analgin / Bandage / hemostatic
+	Gun - whatever.... 
+
 
 ## Gear and Prices 
 
 ### Helmet:
 
 **Considerations**
+
 Dont want to be Spotted? -> Black or Green to Blend in
 Doesnt matter? ->  White and Grey for cheap options. (where it doesnt matter)
 	
 #### Level 4 ( <70k ): 
 
-- ULACH (Ear Protection) 143k
-- Bastion 88k
-- ACHHC - 72k
-- MSA TC-200x // TC 800 - 60k - 79k
-- MTEC 60k+ 60k
+	- ULACH (Ear Protection) 143k
+	- Bastion 88k
+	- ACHHC - 72k
+	- MSA TC-200x // TC 800 - 60k - 79k
+	- MTEC 60k+ 60k
 
 #### Level 3 ( <50k ): 
-- Ratnik 48k
+
+	- Ratnik 48k
 
 
 
@@ -82,22 +83,23 @@ Doesnt matter? ->  White and Grey for cheap options. (where it doesnt matter)
 
 #### Tier 1: 
 
-- Comtac VI - 93k
-- Comtac V - 80k
-- Comtac IV - 63k
+	- Comtac VI - 93k
+	- Comtac V - 80k
+	- Comtac IV - 63k
 	
 #### Tier 2:
-- Sordin 62k
-- Liberator  58k
+
+	- Sordin 62k
+	- Liberator  58k
 	
 #### Tier 2b:
 
-- XCEL - 37k
-- Tactical Sports - 61k
+	- XCEL - 37k
+	- Tactical Sports - 61k
 
 #### Budget:
 
-- M32 - 30k
+	- M32 - 30k
 		
 ### Rigs:
 
