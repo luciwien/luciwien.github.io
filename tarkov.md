@@ -56,7 +56,16 @@ Tag usage: (pen val) + Ammo name
 	Gun - whatever.... 
 
 
+## Consumables
+
+### Meds
+
 ## Gear and Prices 
+
+### Armor
+- Check Plates later
+- Lavatory -> try Multiply plates
+- Plate carriers on market -> Check plate count
 
 ### Helmet:
 
@@ -67,52 +76,62 @@ Doesnt matter? ->  White and Grey for cheap options. (where it doesnt matter)
 	
 #### Level 4 ( <70k ): 
 
-	- ULACH (Ear Protection) 143k
-	- Bastion 88k
-	- ACHHC - 72k
-	- MSA TC-200x // TC 800 - 60k - 79k
-	- MTEC 60k+ 60k
+- ULACH (Ear Protection) 143k
+- Bastion 88k
+- ACHHC - 72k
+- MSA TC-200x // TC 800 - 60k - 79k
+- MTEC 60k+ 60k
 
 #### Level 3 ( <50k ): 
 
-	- Ratnik 48k
-
-
+- Ratnik 48k
 
 ### Headset:
 
-#### Tier 1: 
+#### Tier S (~67 – 70+m): 
 
-	- Comtac VI - 93k
-	- Comtac V - 80k
-	- Comtac IV - 63k
+- Comtac VI - 93k
+Max range, quiet wind, clear.
+- Comtac V - 80k
+Clean tone, sharp, excellent range.
 	
-#### Tier 2:
+#### Tier A (59 – 64m):
 
-	- Sordin 62k
-	- Liberator  58k
-	
-#### Tier 2b:
+- Comtac IV - 63k
+In-ear buds, quiet own feet.
+- XCEL - 37k
+Loud glass, heavy treble compression.
+- Liberator  58k
+Budget meta, sharp treble, clear.
 
-	- XCEL - 37k
-	- Tactical Sports - 61k
+#### Tier B (~48 – 56m):
+
+- Sordin - 62k
+Deep bass, muffled own steps.
+- Tactical Sports - 61k
+Soft, natural, flat sound profile.
 
 #### Budget:
 
-	- M32 - 30k
-		
+- M32 - 30k
+Hollow sounding, basic budget audio.
+- Comtac 2
+Crunchy steps, basic tinny audio.
+- Razor
+Clear center, zero sound directionalization.
+	
 ### Rigs:
 
-	1. CSA for long
-	2. Thunderbolt -> Weight is super small (23k) in Game
+1. CSA for long
+2. Thunderbolt -> Weight is super small (23k) in Game
 
 ### Backpack:
 
-	- 25 cell - 8k - LBT - for the Barter (8k with Craft and Barter)
-	- 20 cell - 36k - Daypack - $245 (41k) - Flea 32k  
-	- 24 cell - 36k - Hazard 4 Takedown -> Smaller than LBT no point. (Ragman 37k)
-	- 30 cell - 75k - Switchblade 75k (Below 80k) 
-	- 30 cell - 76k - Tri-Zip 75k (Ragman 3 -> 76k)
+- 25 cell - 8k - LBT - for the Barter (8k with Craft and Barter)
+- 20 cell - 36k - Daypack - $245 (41k) - Flea 32k  
+- 24 cell - 36k - Hazard 4 Takedown -> Smaller than LBT no point. (Ragman 37k)
+- 30 cell - 75k - Switchblade 75k (Below 80k) 
+- 30 cell - 76k - Tri-Zip 75k (Ragman 3 -> 76k)
 
 # Map knowledge bits 
 
