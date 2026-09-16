@@ -113,3 +113,89 @@ Doesnt matter? ->  White and Grey for cheap options. (where it doesnt matter)
 	- 24 cell - 36k - Hazard 4 Takedown -> Smaller than LBT no point. (Ragman 37k)
 	- 30 cell - 75k - Switchblade 75k (Below 80k) 
 	- 30 cell - 76k - Tri-Zip 75k (Ragman 3 -> 76k)
+
+# Map knowledge bits 
+
+To a new Site... TO DO
+
+## Customs
+
+Duration: 35m
+Player: 10-12
+POIs:  
+PvP: Dorms
+Bosses: Reshala
+
+## Interchange
+
+Duration: 35m
+Player: 11-15
+POIs: 
+PvP: Dorms
+Bosses: Killa
+
+
+### Outside
+
+Scav Camp: Ammo, Fuel
+Med Tent: Meds, Weapons
+Power Station: Ammo, PCs, Toolboxes
+	Ammo and Guns on the **Roof**
+Burries Barrels & Cashes
+
+
+### Inside 
+
+Backoffices: PCs 
+
+Groshan Lockers: Bitcoins oder Gold chains 
+	Coming out of Groshan on the left Side after the Cash registers.
+
+## Woods
+
+Duration: 35m
+Player: 10-14
+POIs: Military, Old Sawmill, Abandoned Village, Sunken Village
+PvP: USEC Outpost, Sawmill
+Bosses: Goons, Partisan, Cultists, Shturman
+
+
+## Shoreline
+
+Duration: 35m
+Player: 11-15
+POIs:  Scav Camp, Village, Health Resort
+PvP: Health Resort
+Bosses: Sanitar@Cabins
+
+## Streets of Tarkov
+
+Duration: 40 min
+Player: 12-16
+POIs:  
+PvP: Dorms
+Bosses: Kaban
+
+## Ground Zero
+
+Duration: 30 min
+Player: 9-10 // 9-12
+POIs: Emercom Meds, Tunnel, 
+PvP: next to Car extract
+Bosses: Cultists (21+)
+
+## Reserve
+
+Duration: 40 min
+Player: 9-11 
+POIs: D2 Bunker 
+PvP: Bunker, Outside
+Bosses: Killa
+
+## Factory
+
+Duration: 20-25m
+Player: 5-7
+POIs:  
+PvP: everywhere
+Bosses: Tagilla
