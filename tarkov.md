@@ -6,20 +6,18 @@ permalink: /tarkov/
 
 # Tarkov Infos
 
-[Ammo](#ammo)
-[Money](#Money)
+- [Ammo](#ammo)
+- [Money](#money)
+- [Loadout](#loadout)
+- [Minimum](#minimum-86k)
+- [Gear and Prices](#gear-and-prices)
+  - [Helmet](#helmet)
+  - [Headset](#headset)
+  - [Rigs](#rigs)
+  - [Backpacks](#backpack)
 
-[Loadout](#Loadout)
-
-[Minimum](#minimum-86k)
-
---> [Gear and Prices](#gear-and-prices)
----> [Helmet](#helmet)
----> [Headset](#headset)
----> [Rigs](#rigs)
----> [Backpacks](#backpack)
-
-
+## Links:
+- [Ballistic Drop Calc](https://tarkovgunsmith.com/ballistic_calculator)
 
 ## Ammo
 
