@@ -18,7 +18,9 @@ permalink: /tarkov/
 
 ## Links:
 - [Ballistic Drop Calc](https://tarkovgunsmith.com/ballistic_calculator)
-- [Shoreline](#Shoreline)
+- [Shoreline](#shoreline)
+
+
 ## Ammo
 
 | Color | Pen |
