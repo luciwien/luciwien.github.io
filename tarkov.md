@@ -18,7 +18,7 @@ permalink: /tarkov/
 
 ## Links:
 - [Ballistic Drop Calc](https://tarkovgunsmith.com/ballistic_calculator)
-
+- [Shoreline](#Shoreline)
 ## Ammo
 
 | Color | Pen |
@@ -86,7 +86,7 @@ Doesnt matter? ->  White and Grey for cheap options. (where it doesnt matter)
 
 ### Headset:
 
-#### Tier S (~67 – 70+m): 
+#### Tier S (~67 – 70+ m): 
 
 - Comtac VI - 93k
 Max range, quiet wind, clear.
@@ -176,14 +176,24 @@ POIs: Military, Old Sawmill, Abandoned Village, Sunken Village
 PvP: USEC Outpost, Sawmill
 Bosses: Goons, Partisan, Cultists, Shturman
 
-
 ## Shoreline
 
-Duration: 35m
-Player: 11-15
-POIs:  Scav Camp, Village, Health Resort
-PvP: Health Resort
-Bosses: Sanitar@Cabins
+| | Map Info |
+| -- | -- |
+| Duration | 40m |
+| Player | 10-15 |
+| POIs |  Scav Camp, Village, Health Resort |
+| PvP | Health Resort |
+| Bosses | **Sanitar**@Cabin **Goons**@Weather Station |
+
+[3D Map from Tarkov.dev](https://tarkov.dev/map/shoreline-3d)
+
+## Info
+
+Extracts: 
+- Mountain Bunker: Code Extract North
+- Climbers Trail: No Armor, Red Rebel, Paracord
+- Car Extract 
 
 ## Streets of Tarkov
 
