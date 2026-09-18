@@ -182,7 +182,7 @@ Bosses: Goons, Partisan, Cultists, Shturman
 
 | | Map Info |
 | -- | -- |
-| Duration | 40m |
+| Duration | 45m |
 | Player | 10-15 |
 | POIs |  Scav Camp, Village, Health Resort |
 | PvP | Health Resort |
